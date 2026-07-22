@@ -4,7 +4,7 @@ A simple pet shop catalog application built with JavaScript.
 
 ## 🌐 Live Demo
 
-[View live demo]()
+[View live demo](https://free00ip.github.io/pet-shop-catalog-js/)
 
 ## 📌 About the Project
 
@@ -21,7 +21,7 @@ The project was created to practice JavaScript fundamentals, including working w
 - HTML Template Element
 - Array Methods
 
-##  Features
+## 👩‍💻 Features
 
 - Display product cards from a JavaScript array
 - Generate product cards using HTML templates
